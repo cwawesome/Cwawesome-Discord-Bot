@@ -1,10 +1,9 @@
 # Cwawesome Bot
 - A bot made for Cwawesomes Discord Server
 #### Bots Depedencies
-- hehe
-- hehe
-- hehe
+- Discord.js
+- NodeJS
+- some other stuff that idk
 #### Bots Developers
-- hehe
-- hehe
-- hehe
+- Cwawesome
+- Kingili (made the readme hehe)
