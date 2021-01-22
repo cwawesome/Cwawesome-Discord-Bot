@@ -13,7 +13,7 @@ client.once('ready', () => {
 client.on('message', async message => {
 
     if (message.content === `${prefix}ping`){
-        message.channel.send('Pong!');
+        message.channel.send(`Pong! The Bots ping is ${Date.now() - message.createdTimestamp}`);
     }else if (!element.id == "801285931868356658"){
         if(member.deaf){
             member.voice.setChannel('801285931868356658') 
